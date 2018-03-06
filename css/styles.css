@@ -1,0 +1,82 @@
+*{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
+  background-color: #e6f2ff;
+}
+h1{
+  color:orange;
+  font-variant: small-caps;
+  font-style: italic;
+}
+h2{
+  background-color: inherit;
+  font-variant: small-caps;
+}
+p{
+  background-color: inherit;
+}
+em{
+  background-color: inherit;
+}
+strong{
+  background-color: inherit;
+}
+#Nav{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+#Nav li{
+  display: inline;
+  margin: 12px 12px 12px;
+  text-align: center;
+  font-weight: bold;
+}
+#Nav li a{
+  background-color: white;
+}
+#Elephants{
+  background-color: yellow;
+  color: green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.elephant{
+  border-radius: 50%;
+  max-width: 100%;
+}
+#Food{
+  background-color: lightblue;
+}
+.blog {
+  color: navy;
+  text-decoration-style: wavy;
+  background-color: inherit;
+}
+#Likes{
+  background-color: pink;
+}
+table{
+  border-style: solid;
+  border-color: red;
+  background-color: inherit;
+}
+.rows{
+  background-color: black;
+  color: pink;
+}
+#Summary{
+  background-color: lightgreen;
+}
+.list {
+  text-align: left;
+  background-color: lightgreen;
+}
+#Summary ol {
+  background-color: inherit;
+}
